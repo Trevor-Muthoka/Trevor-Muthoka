@@ -23,7 +23,6 @@ I'm a computer science student with a passion for coding and love for tech. I am
 
 
 <br />
-<details> 
   <summary><h2>📊 Github Stats and Activity</h2></summary>
 
   <h3>🔥 Streak Stats</h3>
@@ -61,7 +60,5 @@ I'm a computer science student with a passion for coding and love for tech. I am
 4. 🎉 Merged PR [#715](https://github.com/Trevor-Muthoka/custom-icon-badges/pull/715) in [Trevor-Muthoka/custom-icon-badges](https://github.com/Trevor-Muthoka/custom-icon-badges)
 5. 🎉 Merged PR [#714](https://github.com/Trevor-Muthoka/custom-icon-badges/pull/714) in [Trevor-Muthoka/custom-icon-badges](https://github.com/Trevor-Muthoka/custom-icon-badges)
 <!--END_SECTION:activity-->
-
-</details>
 
 
