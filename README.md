@@ -23,7 +23,6 @@ I'm a computer science student with a passion for coding and love for tech. I am
 
 <br/>
 <br />
-
 ### 📞Connect with me: 
 <a href="https://www.linkedin.com/in/trevor-muthoka/" target="blank"><img align="left" alt="linkedin" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" /></a>
 <br/>
