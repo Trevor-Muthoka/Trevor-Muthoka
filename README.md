@@ -1,3 +1,13 @@
+<p align="center">
+  <a href="https://github.com/Trevor-Muthoka">
+    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Trevor" /></a>
+</p>
+
+<p align="center">
+  <!-- Typing SVG by Trevor-Muthoka - https://github.com/Trevor-Muthoka/readme-typing-svg -->
+  <a href="https://github.com/Trevor-Muthoka/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
 <details> 
   <summary><h2>📊 Github Stats and Activity</h2></summary>
 
@@ -39,8 +49,4 @@
 
 </details>
 
-<details> 
-  <summary><h2>🏷️ Holopin Badges</h2></summary>
 
-  <p><a href="https://holopin.io/@denvercoder1"><img src="https://holopin.me/denvercoder1" alt="@denvercoder1&#39;s Holopin board"></a></p>
-</details>
