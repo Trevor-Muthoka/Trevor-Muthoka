@@ -2,7 +2,7 @@
 
 **`Software Developer and Tech Enthusiast`**
 
-I'm a computer science student with a passion for coding and love for tech. I am currentlty working my way to being a full stack developer and a data analyst. This github repo will document my journey and have both my professional and passion projects.
+I'm a computer science student with a passion for coding and love for tech. I am currentlty working my way to being a full stack developer and a data analyst. This github repo will document my journey and has both my professional and passion projects.
 
 ### 🧰 Languages and Tools
 
